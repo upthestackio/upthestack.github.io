@@ -7,15 +7,3 @@ title: Up The Stack
 description: A Project designed to share content with the Cloud and Cloud-Native Community
 
 google_analytics: [Your Google Analytics tracking ID]
-
-darkmode: false
-hide_first_title: false # Useful if README.md is used on both github and pages
-logo_url: ./upthestacklogo.png # Either absolute or relative url
-
-colors:
-    gradient_left: "#2196F3"
-    gradient_right: "#CD00D5"
-    header: "#fff"
-    android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#2196F3" # this default to gradient_color
