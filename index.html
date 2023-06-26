@@ -35,5 +35,14 @@ title: Up The Stack
       <td> <a href=""> <img src="assets/logos/DataOnAWS.png" alt="Data On AWS" ></a>  </td>
       <td> </td>
       </table>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 </html>
+
+
