@@ -1,6 +1,6 @@
 # AWS Re:Invent 2023: Navigating the Cloud Frontier
 
-The AWS Re:Invent 2023 conference unfolded as my last travel for the year, drawing an impressive crowd of over 50,000 attendees. 
+The AWS Re:Invent 2023 conference unfolded as my last travel for the year, drawing an impressive crowd of over 50,000 attendees. (I heard that it could have been closer to 65,000) the walkways and every corner of the Venetian would accept those sorts of numbers. 
 
 ## What did i get up to?
 
