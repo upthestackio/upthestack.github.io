@@ -14,7 +14,7 @@ The first session to plug is where we delved into the intricacies of safeguardin
 
 [![Kubernetes Data Management and Scaling with Kasten K10 (CON204)](https://img.youtube.com/vi/6UOXXMd_U6Y/0.jpg)](https://www.youtube.com/watch?v=6UOXXMd_U6Y)
 
-[![Cloud security, data responsibility, and recovery: 10 key strategies (ENT319)](https://img.youtube.com/vi/=EyWK7AXM5LI/0.jpg)](https://www.youtube.com/watch?v=EyWK7AXM5LI)
+[![Cloud security, data responsibility, and recovery: 10 key strategies (ENT319)](https://img.youtube.com/vi/EyWK7AXM5LI/0.jpg)](https://www.youtube.com/watch?v=EyWK7AXM5LI)
 
 My second session was with Julia. We discussed "Cloud Securitym Data Responsibility and Recovery: 10 Key Strategies" In this session we took the well known 6Rs blog which was updated in 2017 to be the 7Rs and we went through each one and added some hopefully interesting insights on how you should be making your data still recoverable as you as the end user is responsible for this data. 
 
