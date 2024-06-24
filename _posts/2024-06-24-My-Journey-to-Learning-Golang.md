@@ -1,4 +1,4 @@
-### Title: From Infrastructure to Application: My Journey to Learning Golang
+### From Infrastructure to Application: My Journey to Learning Golang
 
 For a while now, I have been contemplating the state of the infrastructure side of technology. Over the years, it has become increasingly apparent that infrastructure has largely become a commodity. We have a handful of platforms available to us for running our critical applications and data, ranging from physical and virtual environments to cloud and cloud-native platforms such as serverless and Kubernetes. However, the key metric driving change in the tech landscape has not been the infrastructure itself, but rather the application.
 
