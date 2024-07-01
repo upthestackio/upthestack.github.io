@@ -28,7 +28,7 @@ In my previous blog post, I outlined a structured learning path to master Golang
 
 2. **Introduction to Computer Science:**
    - **CS50's Introduction to Computer Science 2022 by Harvard University** - The full course lectures.
-     - [CS50 2022 - Harvard University](https://www.youtube.com/playlist?list=PLhQjrBD2T380sc-fyEkPFLFlrHWl6XT8n)
+     - [CS50 2024 - Harvard University](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)
 
 ### Step 2: Start Learning Golang
 
@@ -36,24 +36,24 @@ In my previous blog post, I outlined a structured learning path to master Golang
    - **Golang Tutorial for Beginners by Tech with Tim** - A detailed introduction to Golang.
      - [Tech with Tim - Golang Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q)
 
-   - **Golang Full Course by FreeCodeCamp** - Covers Golang from the basics to more advanced topics.
-     - [FreeCodeCamp - Golang Full Course](https://www.youtube.com/watch?v=yyUHQIec83I)
+   - **Golang Full Course by TechWorld with Nana** - Covers Golang from the basics to more advanced topics.
+     - [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
 
 ### Step 3: Practice Coding in Golang
 
 1. **Interactive Coding Platforms:**
-   - **Golang Practice by John Codes** - Practice problems and solutions in Golang.
-     - [John Codes - Golang Practice](https://www.youtube.com/playlist?list=PLo5lAe9kQr7yEbkZZln2Eh5SUZyZvHt8X)
+   - **Go Programming – Golang Course with Bonus Projects** - Practice problems and solutions in Golang.
+     - [Go Programming – Golang Course with Bonus Projects](https://www.youtube.com/watch?v=un6ZyFkqFKo)
 
 2. **Build Small Projects:**
    - **Building CLI Tools with Golang by The Polyglot Developer** - A series on creating command-line tools.
      - [The Polyglot Developer - CLI Tools](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4)
 
-   - **Web Scraping with Golang by Golang Cafe** - A tutorial on building a web scraper.
-     - [Golang Cafe - Web Scraping](https://www.youtube.com/watch?v=0U7K21BrB7Y)
+   - **Web Scraping with Golang** - A tutorial on building a web scraper.
+     - [GO for Beginners - Web Scraping with Golang Tutorial](https://www.youtube.com/watch?v=0U7K21BrB7Y)
 
    - **Building a REST API with Go by Traversy Media** - A step-by-step guide to creating a REST API.
-     - [Traversy Media - REST API with Go](https://www.youtube.com/watch?v=SonwZ6MF5BE)
+     - [Traversy Media - REST API with Go](https://www.youtube.com/watch?v=NU4OlJVj1gs)
 
 ### Step 4: Understanding DevOps with Golang
 
@@ -62,7 +62,7 @@ In my previous blog post, I outlined a structured learning path to master Golang
      - [TechWorld with Nana - Docker Tutorial](https://www.youtube.com/playlist?list=PLy7NrYWoggjwPggqtFsI_zMAwvG0SqYCb)
 
    - **Kubernetes Tutorial for Beginners by KodeKloud** - An in-depth Kubernetes tutorial.
-     - [KodeKloud - Kubernetes for Beginners](https://www.youtube.com/playlist?list=PL2qzCKTbjutUYZ30Lj3Prc7XkSYszR1aO)
+     - [KodeKloud - Kubernetes for Beginners](https://www.youtube.com/watch?v=QJ4fODH6DXI&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5)
 
 2. **CI/CD:**
    - **Jenkins Tutorial for Beginners by Edureka** - A comprehensive introduction to Jenkins for CI/CD.
@@ -70,16 +70,12 @@ In my previous blog post, I outlined a structured learning path to master Golang
 
 ### Step 5: Building Web Applications with Golang and UI Frameworks
 
-1. **Web Development with Golang:**
-   - **Web Development with Go by Nic Jackson** - A series on building web applications with Go.
-     - [Nic Jackson - Web Development with Go](https://www.youtube.com/playlist?list=PLxQA1D-2gqwVYkE_OGI4fGqE1fhoFoHkS)
-
-   - **Build Web Application with Go by TutorialEdge** - A tutorial series on building web applications.
+1. **Build Web Application with Go by TutorialEdge** - A tutorial series on building web applications.
      - [TutorialEdge - Web Application with Go](https://www.youtube.com/playlist?list=PLzUGFf4GhXBL4GHXVcMMvzgtO8-WEJIoY)
 
 2. **UI Frameworks:**
-   - **HTMX by HTMX Community** - Tutorials and guides on using HTMX.
-     - [HTMX Community - HTMX Tutorials](https://www.youtube.com/playlist?list=PLsyeobzWxl7q2O-1j3uo5Ie-cPqBFOEEN)
+   - **FULL Introduction To HTMX Using Golang** - Tutorials using HTMX.
+     - [[HTMX Community - HTMX Tutorials](https://www.youtube.com/watch?v=QJ4fODH6DXI&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5)
 
    - **Vue.js for Beginners by The Net Ninja** - A complete beginner's guide to Vue.js.
      - [The Net Ninja - Vue.js for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gXdVXVJBmHpSI7zCEcjLUX)
@@ -90,12 +86,12 @@ In my previous blog post, I outlined a structured learning path to master Golang
 ### Step 6: Build and Deploy a Full Demo Application
 
 1. **Project Development:**
-   - **Building a Fullstack App with Golang and React by The Net Ninja** - Combining Go for backend and React for frontend.
-     - [The Net Ninja - Fullstack App with Golang and React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gP3IoTiYXTfUogckpLKIGQ)
+   - **Building a Fullstack App with Golang and React** - Combining Go for backend and React for frontend.
+     - [Fullstack App with Golang and React](https://www.youtube.com/watch?v=UtbEIBu1goo&list=PL5dTjWUk_cPZKL-WgEXbD4l5YAjdGHfpt)
 
 2. **Deployment:**
-   - **Deploying Applications with Docker and Kubernetes by DevOps Toolkit** - A tutorial on deploying applications using Docker and Kubernetes.
-     - [DevOps Toolkit - Docker and Kubernetes Deployment](https://www.youtube.com/playlist?list=PLn4pfVYPsoj_zDVCYH8vQyAbJ8M5C7eFj)
+   - **Kubernetes 101: Deploying Your First Application!** - A tutorial on deploying applications using Docker and Kubernetes.
+     - [Kubernetes 101: Deploying Your First Application!](https://www.youtube.com/watch?v=XltFOyGanYE)
 
 **Conclusion**
 
