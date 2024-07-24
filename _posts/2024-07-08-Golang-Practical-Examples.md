@@ -2,8 +2,8 @@
 
 This is another follow on blog and if you are landing here first then I will link the other two below: 
 
-[Part 1 - A broad list of hero to zero when it comes to learning (from my perspective) Golang](https://www.upthestack.io/2024/06/24/My-Journey-to-Learning-Golang.html)
-[Part 2 - Using free resources in YouTube to learn these areas](https://www.upthestack.io/2024/07/1/Learning-Go-With-YouTube-For-Free.html)
+- [Part 1 - A broad list of hero to zero when it comes to learning (from my perspective) Golang](https://www.upthestack.io/2024/06/24/My-Journey-to-Learning-Golang.html)
+- [Part 2 - Using free resources in YouTube to learn these areas](https://www.upthestack.io/2024/07/01/Learning-Go-With-YouTube-For-Free.html)
 
 **Introduction:**
 In the previous two blogs, we explored a structured learning path to acquire Golang skills and highlighted valuable YouTube resources to facilitate that learning. Now, in this final installment of our series, we’ll dive into practical, hands-on scenarios. The goal is to apply what we've learned to real-world projects, enhancing our understanding and proficiency in Golang through direct application.
