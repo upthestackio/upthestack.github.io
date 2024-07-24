@@ -18,9 +18,9 @@ We will use this list below to work through the projects.
 Provisioning encompasses tools and services for automating the configuration, management, and scaling of cloud-native environments. This category includes automation, security, container registries, and key management solutions.
 
 *Automation & Configuration*
-- [ ] Cloud Custodian (I)
+- [✓] Cloud Custodian (I)
   - [Cloud Custodian](https://cloudcustodian.io/): A tool that allows you to define rules to manage and automate cloud resources.
-- [ ] KubeEdge (I)
+- [✓] KubeEdge (I)
   - [KubeEdge](https://kubeedge.io/): Extends native containerized application orchestration and device management to hosts at the edge.
 
 *Key Management*
