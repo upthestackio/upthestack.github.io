@@ -96,4 +96,5 @@ custodian run -s . tag-compliance.yml
 ```
 
 Review the results and take appropriate action based on the findings.
-```
+
+If you would like to see me walking through this demo then this [session](https://youtu.be/d_brRJhUHEw?si=lwfwjMc_efnLHfpr) does just that. I will try and record demos for each of these. 
